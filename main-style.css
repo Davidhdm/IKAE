@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap');
+@import url('assets/components/color-variables.css');
+@import url('assets/components/header.css');
+@import url('assets/components/main-about.css');
+@import url('assets/components/footer.css');
+@import url('assets/components/main-categories.css');
+
+body {
+    margin: 0;
+}
+
+#container {
+    font-family: 'Open Sans', sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}

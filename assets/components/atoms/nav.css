@@ -1,0 +1,47 @@
+nav {
+    width: 51vh;
+    margin-right: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav ul {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+    font-variant: small-caps;
+    font-weight: 700;
+    font-size: 20px;
+    color: var(--black);
+}
+
+nav ul li.transparent {
+    opacity: 0.45;
+}
+
+nav ul li {
+    cursor: pointer;
+}
+
+.search-icon {
+    margin-left: 25px;
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+}
+
+@media (max-width: 768px) {
+
+    nav {
+        display: none;
+        margin-top: 4vw;
+    }
+
+    nav ul {
+        
+        font-size: 3.6vw;
+    }
+}
