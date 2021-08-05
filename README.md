@@ -1,7 +1,7 @@
 # IKAE
 This is a simple responsive landing page made with HTML and CSS.
 
-# Installation
+# Project Setup
 To run this project in your machine, you must clone the repository by running the following command on the command line.
 
 ```
