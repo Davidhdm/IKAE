@@ -10,6 +10,8 @@ git clone https://github.com/Davidhdm/IKAE.git
 
 and then run Live Server.
 
+You can also check the app page: https://davidhdm.github.io/IKAE/
+
 # Desktop Screenshots
 <img src="./assets/img/readme-screenshots/Header-Desktop.png" alt="Screenshot of the desktop view">
 <img src="./assets/img/readme-screenshots/AboutUs-Desktop.png" alt="Screenshot of the desktop view">
