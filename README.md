@@ -11,11 +11,11 @@ git clone https://github.com/Davidhdm/IKAE.git
 and then run Live Server.
 
 # Desktop Screenshots
-<img src="./img/readme-screenshots/Header-Desktop.png" alt="Screenshot of the desktop view">
-<img src="./img/readme-screenshots/AboutUs-Desktop.png" alt="Screenshot of the desktop view">
-<img src="./img/readme-screenshots/Categories-Desktop.png" alt="Screenshot of the desktop view">
+<img src="./assets/img/readme-screenshots/Header-Desktop.png" alt="Screenshot of the desktop view">
+<img src="./assets/img/readme-screenshots/AboutUs-Desktop.png" alt="Screenshot of the desktop view">
+<img src="./assets/img/readme-screenshots/Categories-Desktop.png" alt="Screenshot of the desktop view">
 
 # Mobile Screenshots
-<img src="./img/readme-screenshots/Mobile-1.png" alt="Screenshot of the mobile view">
-<img src="./img/readme-screenshots/Mobile-2.png" alt="Screenshot of the mobile view">
-<img src="./img/readme-screenshots/Mobile-3.png" alt="Screenshot of the mobile view">
+<img src="./assets/img/readme-screenshots/Mobile-1.png" alt="Screenshot of the mobile view">
+<img src="./assets/img/readme-screenshots/Mobile-2.png" alt="Screenshot of the mobile view">
+<img src="./assets/img/readme-screenshots/Mobile-3.png" alt="Screenshot of the mobile view">
