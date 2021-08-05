@@ -37,10 +37,6 @@
   cursor: pointer;
 }
 
-.picture-container p:hover {
-  opacity: 0;
-}
-
 .picture-container img {
   width: 100%;
   height: 100%;
@@ -51,6 +47,10 @@
 
 .picture-container p:hover+img {
   transform: scale(1.2);
+}
+
+.picture-container p:hover {
+  opacity: 0;
 }
 
 #categories h2 {
